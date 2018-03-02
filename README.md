@@ -18,3 +18,6 @@ IR Breaker / Burglar Alarm
 ### SixNationsPolytechnic-2018 classes
 https://github.com/SixNationsPolytechnic/2018-01-BurglarAlarm
 ### Class #1 -Burglar Alarm
+
+NOTE: You also need to have a PI with the code for the playbulb see
+https://github.com/markusvankempen/playbulb
